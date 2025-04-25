@@ -1,4 +1,3 @@
-# AG_IA
 AGENTES IA OPTIMIZADOS
 import React, { useState } from "react";
 import { Button } from "@/components/ui/button";
